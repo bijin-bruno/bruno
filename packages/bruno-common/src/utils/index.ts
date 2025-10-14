@@ -7,3 +7,8 @@ export {
 export {
   buildFormUrlEncodedPayload
 } from './form-data';
+
+export {
+  extractPromptVariables,
+  extractPromptVariablesFromString
+} from './prompt-variables';
