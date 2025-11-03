@@ -17,7 +17,7 @@
 | [हिंदी](docs/contributing/contributing_hi.md)
 | [Dutch](docs/contributing/contributing_nl.md)
 
-## Let's make Bruno better, together!!
+## Let's make Bruno better, together!!!
 
 We are happy that you are looking to improve Bruno. Below are the guidelines to run Bruno on your computer.
 
